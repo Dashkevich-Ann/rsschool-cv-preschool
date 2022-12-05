@@ -1,6 +1,6 @@
 # rs-school
 # Anna Dashkevich
-![cv-photo]()
+![cv-photo](CV_photo.jpg)
 ## Trainee Frontend Developer
 *****
 ## Contacts
